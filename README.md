@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:013243,100:4FC3F7&height=220&section=header&text=NumPy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Numerical%20Computing%20with%20Python&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&&height=220&section=header&text=NumPy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Numerical%20Computing%20with%20Python&descAlignY=58"/>
 
 # 🔢 NumPy
 
